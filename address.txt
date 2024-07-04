@@ -1,1 +1,3 @@
 shastri nagar,bareilly
+lucknow
+bokaro,jharkhand
